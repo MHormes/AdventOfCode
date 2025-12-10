@@ -1,0 +1,5 @@
+# Ignore all files in the 'inputs' directory
+/inputs/
+
+# Ignore all text files that contain the word 'input'
+*_input.txt
